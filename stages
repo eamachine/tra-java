@@ -14,6 +14,7 @@ Fase 1
 Fase 2
     tecnologias vs CV
     Red de personas
+        encontrar un mentor
         cursos, educación y certificación relacionado a las tecnologias
         indices de similitud basados en tecnologias (con otras personas y con ofertas de trabajo)
         indices de similitud basados en info, con relevancia en tecnologias (filtro por experiencia, educación, skills)        
@@ -21,14 +22,17 @@ Fase 2
         puntuación de tecnologías basado en la hv
         arbol de tecnologias en cv, link en la cv de la suficiencia de tecnologias complemento a hv, enlace a paginas de evaluación de tecnologias
         crear career path (guardar lo que sabe y quiere aprender)
+        verlo a modo video juego 
         recomendaciones basadas en trending y en intereses
         recomendaciones, tecnologias faltantes, tecnologias mas debiles, completar conocimientos, conocimientos deprecated
+        empresas relacionadas, proximos empleos, empresas en tu nivel
         trending technologies
         tiempo estimado para aprenderlas
         estadisticas, tecnologias mas fuertes, recurso limitado
         enlazar cuentas a los repos
         mostrar personas relacionadas en modo de grafo para las empresas, basado en busquedas
         crear grupos de personas, ver intereses?
+        
 
 Fase 3
     la logia, los magios / fundación
