@@ -1,0 +1,112 @@
+https://www.youtube.com/watch?v=B-xdfQv3I1k&t=15s
+https://www.amazon.jobs/en/principles
+
+DESCRIPTION
+Amazon is where innovation, risks, and ideas are celebrated. We are builders. We try new things and dream big dreams. At Amazon Web Services (AWS), we are inventing the future of cloud computing. AWS is where the cloud first came to life. Now we’re inventing for the decades ahead. It is still Day 1 for us, and we are looking for curious people to be part of our diverse teams of thinkers, testers, and doers. Come join us and work with the latest cloud computing technologies that enable our customers to do more with their technology and change the world in their respective industries.
+
+We are looking for Solutions Architects to join our AWS team in Bogota - Colombia. We need a variety of skills to help shape and deliver on our cloud strategy for our global customers and partners. In AWS, you’ll find teams of focused builders whose ability to invent is only limited by their imaginations. As a trusted customer advocate, the solutions architect will help organizations understand advanced cloud-based solutions and how to migrate existing workloads to the cloud. You will have the opportunity to help shape and execute a strategy to build mind share and broad use of AWS within organizations ranging from new start-ups to large enterprise customers. The ability to link technology with measurable business value is critical to a solutions architect.”
+
+
+Amazon.com is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation.
+
+
+BASIC QUALIFICATIONS
+· Undergraduate degree in Computer Science, Technology, Engineering, Math or 7+ year’s work experience in technical role in lieu of no Bachelor’s degree.
+· 7+ years’ experience in software design, implementation, or consulting experience with distributed applications.
+· 3+ years of experience in infrastructure architecture, database architecture and networking
+
+· Ability to travel as needed.
+
+· Ability to communicate fluently in English and Spanish, in technical and business settings (verbal and written).
+
+
+
+PREFERRED QUALIFICATIONS
+· Graduate degree in Computer Science, Technology, Engineering or Math.
+· Experience architecting, operating cloud-based solutions.
+· AWS Solution Architecture certification or relevant cloud expertise.
+· Experience migrating or transforming legacy customer solutions to the cloud.
+· Working knowledge of software development tools and methodologies.
+· Demonstrated ability to adapt to new technologies and learn quickly.
+· Presentation skills with a high degree of comfort speaking with executives, IT Management, and developers
+· Experience in technology/software sales or pre-sales consulting.
+· Experience with a programming or scripting language.
+· Excellent written and verbal communication skills.
+
+https://www.amazon.jobs/en/landing_pages/phone-interview
+
+https://www.amazon.jobs/en/landing_pages/p-software-development-topics
+
+https://aws.amazon.com/products/?hp=tile&so-exp=below
+
+https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
+https://brilliant.org/wiki/traversals/
+https://brilliant.org/wiki/breadth-first-search-bfs/
+https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/
+https://www.geeksforgeeks.org/dynamic-programming/
+
+https://en.wikipedia.org/wiki/Amazon_Glacier
+https://en.wikipedia.org/wiki/Amazon_S3
+https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store
+https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud
+https://en.wikipedia.org/wiki/Amazon_Redshift
+https://en.wikipedia.org/wiki/Amazon_DynamoDB
+https://en.wikipedia.org/wiki/Amazon_ElastiCache
+https://en.wikipedia.org/wiki/Amazon_Relational_Database_Service
+https://aws.amazon.com/cloudwatch/
+https://aws.amazon.com/iam/
+https://aws.amazon.com/cloudformation/
+https://aws.amazon.com/elasticbeanstalk/
+
+
+https://www.swgreenhouse.com/conceptos-de-continuidad-de-negocio/rto-rpo
+https://blog.seagate.com/business/nas-vs-san-vs-das-which-is-right-for-you/
+https://www.geeksforgeeks.org/dynamic-programming/
+https://www.webopedia.com/TERM/H/hadoop_distributed_file_system_hdfs.html
+
+
+RAID RAID0 RAID1
+distributed systems
+escalable systems
+Security
+RTO vs RPO 
+https://www.bluelock.com/blog/rpo-rto-pto-and-raas-disaster-recovery-explained/
+MODELO ISO OSI
+https://en.wikipedia.org/wiki/OSI_model
+TCP UCP
+Availability
+Durability
+DAS NAS SAN
+PCI DSS
+encryption algorithm
+https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences
+Simetric and asymetric algorithm
+https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences
+authorization 
+authentication
+https://stackoverflow.com/questions/20771435/database-sharding-vs-partitioning
+IDS IPS
+https://searchsecurity.techtarget.com/definition/intrusion-prevention
+Intrusion detection system IDS
+Intrusion prevention system IPS
+monitor network traffic
+IAS internet authentication service 
+TTL
+https://en.wikipedia.org/wiki/Time_to_live
+Bare metal
+https://en.wikipedia.org/wiki/Bare-metal_server
+
+Virtualización
+Contenerización vs Virtualización
+https://en.wikipedia.org/wiki/Bare-metal_server
+
+blue green 
+canary deployment
+
+Que se requiere para un sitio web basico en el despliegue
+
+particioning and sharding
+https://www.quora.com/Whats-the-difference-between-sharding-DB-tables-and-partitioning-them
+
+CDN 
+hoe applies TTL and replication inside a CDN

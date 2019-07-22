@@ -25,6 +25,7 @@ CREATE (Process:topic {title:'Process'})
 CREATE
   (Frontend)-[:IS_A]->(BusinessApps),
   (Backend)-[:IS_A]->(BusinessApps),
+  (Mobile)-[:IS_A]->(BusinessApps),
   (SQL)-[:IS_A]->(Databases),
   (nosql)-[:IS_A]->(Databases),
   (ContinuosIntegration)-[:IS_A]->(Devops),
@@ -411,7 +412,6 @@ CREATE
   (Springboot)-[:RELATED_AS]->(Microservices),
   (Springboot)-[:RELATED_AS]->(API),
   (JEE)-[:RELATED_AS]->(Web),
-  (Swing)-[:RELATED_AS]->(Desktop),
   (Laravel)-[:RELATED_AS]->(Web),
   (Lumen)-[:RELATED_AS]->(Microservices),
   (Lumen)-[:RELATED_AS]->(API),

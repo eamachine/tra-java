@@ -1,0 +1,89 @@
+DEVELOPMENT. CLOUD . DEVOPS
+
+W3C
+
+https://www.w3schools.com/cert/
+Front End Web Developer Certification by W3C (edX)
+
+Google
+
+Associate Android Developer
+Mobile Web Specialist
+Google Cloud Certified - Professional Cloud Architect
+Google Cloud Certified - Professional Data Engineer
+Google Cloud Certified - Associate Cloud Engineer
+
+Amazon
+
+https://aws.amazon.com/certification/
+Amazon Web Services (AWS Certified Developer - Associate Level)
+
+Oracle
+
+Oracle Application Express Developer Certified Expert (Oracle APEX)
+Oracle Certified Java certifications at the Associate, Professional (OCP), Master (OCM) and Expert (OCE) levels. 
+
+https://education.oracle.com/oracle-certification-exams-list
+
+Microsoft
+
+https://www.microsoft.com/en-us/learning/browse-all-certifications.aspx
+Microsoft Professional Certification in Front-End Web Development (edX)
+Microsoft Certified Solutions Developer (MCSD)
+
+Pivotal
+
+https://pivotal.io/training/certification
+
+Unity
+
+https://certification.unity.com/
+
+php
+
+https://www.zend.com/en/services/certification/php-certification
+
+python 
+
+https://pythoninstitute.org/certification/
+
+
+Scrum
+
+https://www.scrumalliance.org/get-certified/developer-track/certified-scrum-developer
+
+SECURITY
+
+Security
+
+https://www.eccouncil.org/
+CEH: Certified Ethical Hacker
+CISM: Certified Information Security Manager
+CompTIA Security+
+CISSP: Certified Information Systems Security Professional
+GSEC: SANS GIAC Security Essentials
+
+TOOLS
+
+Sitecore 
+
+https://www.sitecore.com/services-and-support/training
+
+Acquia - drupal
+
+Backend specialist
+https://medium.com/@purushotamrai/acquia-backend-specialist-certification-guide-47a8c61ca360
+
+liferay, DIGITAL EXPERIENCE PLATFORM
+
+Backend
+
+https://www.liferay.com/services/certification/dxp/back-end-developer-71
+
+Cloudera
+https://www.cloudera.com/about/training/certification/cca-spark.html
+https://www.cloudera.com/about/training/certification.html
+Cloudera Certified Developer for Apache Hadoop (CCDH) 
+
+Redhat certificaction 
+https://www.redhat.com/en/services/all-certifications-exams
